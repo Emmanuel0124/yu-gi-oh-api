@@ -1,0 +1,2 @@
+class DuelMonster < ApplicationRecord
+end
