@@ -1,0 +1,2 @@
+module DuelMonstersHelper
+end

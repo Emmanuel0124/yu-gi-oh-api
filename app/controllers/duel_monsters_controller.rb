@@ -1,0 +1,2 @@
+class DuelMonstersController < ApplicationController
+end
